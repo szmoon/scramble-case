@@ -1,7 +1,20 @@
 # Acrylic case for the SCRAMBLE Macropad
+## Version: Bamboo Mahjong Tile by szmoon
 
-![L1003525](https://user-images.githubusercontent.com/14165909/113496523-5a4b3d00-94af-11eb-806e-21201302e4ce.jpg)
-![L1003522](https://user-images.githubusercontent.com/14165909/113496524-5d462d80-94af-11eb-8685-f46665549027.jpg)
+### Mahjong version notes
+
+This is a slightly altered version of [dayofdoom](https://github.com/dayofdoom)'s [scramble-case](https://github.com/dayofdoom/scramble-case). Changes made:
+
+* Borders are widened and overall board is slightly larger
+* Corners are more rounded
+* There are two additional layers so that the switches are more concealed
+* Added svg/dxf file for KEY, which is the acrylic bamboo shape included in the resin keycaps
+* Hardware change: this version uses 4x M2x15mm standoffs (instead of the original 9mm standoffs)
+
+Additional photos and info for this build can be found on [szmoon's blog post](https://blog.selinazawacki.com/2022/01/24/mahjong-nullbits-scramble-board/).
+
+![mahjong nullbits scramble case surrounded by mahjong tiles](https://blog.selinazawacki.com/wp-content/uploads/2022/01/mahjong-board-13-1536x1024.jpg)
+![top down view of the mahjong nullbits scramble next to a small mahjong tile](https://blog.selinazawacki.com/wp-content/uploads/2022/01/mahjong-board-15-1536x1024.jpg)
 
 
 Each layer is meant to be cut using 3mm acrylic.
